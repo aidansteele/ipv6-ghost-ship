@@ -1,5 +1,7 @@
 # `ipv6-ghost-ship`
 
+[Twitter thread 🐦](https://twitter.com/__steele/status/1478904436747427840)
+
 As of [July 2021][aws-blog], AWS EC2 instances can be assigned IPv4 and IPv6 
 address prefixes. The IPv6 prefixes are `/80`, which gives your EC2 instance
 281,474,976,710,656 IP addresses to play with. You _could_ use the feature to
